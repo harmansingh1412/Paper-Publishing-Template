@@ -2,7 +2,7 @@
 
 ## Abstract
  
-## Link to Publication:
+## Link to Publication
 
 ## Code Overview
 
