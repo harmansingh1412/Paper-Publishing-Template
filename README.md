@@ -11,6 +11,9 @@
 <li><a href="#contact">Contact</a></li>
 </ul>
 
+## Contributors
+See <p dir="auto">See <a href="/openai/gpt-2/blob/master/CONTRIBUTORS.md">CONTRIBUTORS.md</a></p>
+
 ## Abstract
  
 ## Link to Publication
