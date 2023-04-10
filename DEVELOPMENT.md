@@ -14,4 +14,5 @@ Git clone this repository, and cd into directory for remaining commands
   </div></div>
 
 
-More information on how to clone a repository
+<p dir="auto">More information on how to clone a <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository">repository</a></p>
+
