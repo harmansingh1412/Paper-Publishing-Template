@@ -9,6 +9,7 @@
 <li><a href="#abstract">Abstract</a></li>
 <li><a href="#linktopublication">Link to Publication</a></li>
 <li><a href="#codeoverview">Code Overview</a></li>
+<li><a href="#development">Development</a></li>
 <li><a href="#contact">Contact</a></li>
 </ul>
 
@@ -48,7 +49,7 @@ devtools::install_github('Weiming-Hu/RAnEnExtra')" tabindex="0" role="button" st
 ## Development
 <p dir="auto">See <a href="https://github.com/harmansingh1412/test/blob/main/DEVELOPMENT.md">DEVELOPMENT.md</a></p>
 
-## Contact:
+## Contact
 
 For any queries, please contact
 Harman Singh 
