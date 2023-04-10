@@ -46,6 +46,7 @@ devtools::install_github('Weiming-Hu/RAnEnExtra')" tabindex="0" role="button" st
   </div></div>
 
 ## Development
+<p dir="auto">See <a href="https://github.com/harmansingh1412/test/blob/main/CONTRIBUTORS.md">DEVELOPMENT.md</a></p>
 
 ## Contact:
 
