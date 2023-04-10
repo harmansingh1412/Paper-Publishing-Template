@@ -12,3 +12,6 @@ Git clone this repository, and cd into directory for remaining commands
 </svg>
     </clipboard-copy>
   </div></div>
+
+
+More information on how to clone a repository
