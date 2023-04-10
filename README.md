@@ -8,6 +8,6 @@
 
 For any queries, please contact
 Harman Singh 
-(hxs5376@psu.edu)
+(<a href="hxs5376@psu.edu" rel="nofollow">email</a>)
 Department of Geography, 
 Penn State Univeristy, U.S.A.
