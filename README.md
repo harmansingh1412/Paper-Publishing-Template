@@ -1,6 +1,8 @@
 # Turtle Example
 <p dir="auto">
 <a href="https://opensource.org/licenses/MIT" rel="nofollow"></a>
+</a><img src="https://github.com/harmansingh1412/Paper-Publishing-Template/blob/main/Images/turtle_image.jpg" style="max-width: 100%;">
+</a>
 </p>
 
 <ul dir="auto">
