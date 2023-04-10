@@ -5,6 +5,7 @@
 </p>
 
 <ul dir="auto">
+<li><a href="#contributors">Contributors</a></li>
 <li><a href="#abstract">Abstract</a></li>
 <li><a href="#linktopublication">Link to Publication</a></li>
 <li><a href="#codeoverview">Code Overview</a></li>
