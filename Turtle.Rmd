@@ -7,7 +7,9 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-install.packages("TurtleGraphics")
+# install package
+#install.packages("TurtleGraphics")
+# read library
 library(TurtleGraphics)
 ```
 

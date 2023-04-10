@@ -1,26 +1,7 @@
 "0","knitr::opts_chunk$set(echo = TRUE)"
-"0","install.packages(""TurtleGraphics"")"
-"2","Installing package into ‘C:/Users/harma/AppData/Local/R/win-library/4.2’
-(as ‘lib’ is unspecified)
-"
-"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.2/TurtleGraphics_1.0-8.zip'
-"
-"2","Content type 'application/zip'"
-"2"," length 462597 bytes (451 KB)
-"
-"2","downloaded 451 KB
-
-"
-"1","package ‘TurtleGraphics’ successfully unpacked and MD5 sums checked
-"
-"1","
-"
-"1",""
-"1","The downloaded binary packages are in
-	C:\Users\harma\AppData\Local\Temp\Rtmpqaa9O7\downloaded_packages"
-"1",""
-"1","
-"
+"0","# install package"
+"0","#install.packages(""TurtleGraphics"")"
+"0","# read library"
 "0","library(TurtleGraphics)"
 "2","Warning: package ‘TurtleGraphics’ was built under R version 4.2.3"
 "2","Loading required package: grid
