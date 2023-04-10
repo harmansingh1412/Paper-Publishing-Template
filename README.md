@@ -22,12 +22,12 @@
 
 ## Code Overview
 
-This project uses xyz coding languages. The following packages need to be installed to succesfully run the code:
+This project uses R Studio. The following packages need to be installed to succesfully run the code:
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto">
  <pre class="notranslate">
  <code> 
 #
-#install.packages(c('abind', 'foreach', 'progress')
+#install.packages('TurtleGraphics')
 #
 </code>
 </pre><div class="zeroclipboard-container position-absolute right-0 top-0">
