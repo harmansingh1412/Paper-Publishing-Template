@@ -2,7 +2,9 @@
 
 <ul dir="auto">
 <li><a href="#abstract">Abstract</a></li>
-<li><a href="#installation">Installation</a></li>
+<li><a href="#linktopublication">Link to Publication</a></li>
+<li><a href="#codeoverview">Code Overview</a></li>
+<li><a href="#contact">Contact</a></li>
 </ul>
 
 ## Abstract
