@@ -12,7 +12,7 @@
 </ul>
 
 ## Contributors
-See <p dir="auto">See <a href="/openai/gpt-2/blob/master/CONTRIBUTORS.md">CONTRIBUTORS.md</a></p>
+<p dir="auto">See <a href="/openai/gpt-2/blob/master/CONTRIBUTORS.md">CONTRIBUTORS.md</a></p>
 
 ## Abstract
  
