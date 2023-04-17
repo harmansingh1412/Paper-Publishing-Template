@@ -1,7 +1,7 @@
 # Installation
 Git clone this repository, and cd into directory for remaining commands
 
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>git clone https://github.com/harmansingh1412/test &amp;&amp; cd test
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>git clone https://github.com/harmansingh1412/Paper-Publishing-Template &amp;&amp; cd Paper-Publishing-Template
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone https://github.com/openai/gpt-2.git &amp;&amp; cd gpt-2" tabindex="0" role="button" style="display: inherit;">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
