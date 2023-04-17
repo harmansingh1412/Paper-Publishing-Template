@@ -26,6 +26,7 @@ This project uses R Studio. The following packages need to be installed to succe
  <code> 
 #
 #install.packages('TurtleGraphics')
+library(TurtleGraphics)
 #
 </code>
 </pre><div class="zeroclipboard-container position-absolute right-0 top-0">
