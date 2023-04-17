@@ -5,27 +5,19 @@ date: "2023-03-20"
 output: html_document
 ---
 
+# Install packages and load libraries
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+
 # install package
 #install.packages("TurtleGraphics")
-# read library
+
+# load library
 library(TurtleGraphics)
 ```
 
-```{r}
-turtle_init()
-turtle_do({
-  turtle_move(20)
-  turtle_right(90)
-  turtle_move(20)
-  turtle_right(90)
-  turtle_move(20)
-  turtle_right(90)
-  turtle_move(20)
-  turtle_right(90)
-})
-```
+# Turtle Art
 
 ```{r}
 turtle_quick_pollack <- function(strokes) {
@@ -37,8 +29,6 @@ turtle_quick_pollack <- function(strokes) {
       randomColor <- sample(colors(), size = 2)
       turtle_col(randomColor)
       colorsUsed[i] <- randomColor
-      #randomAngle <- runif(1, min = 0, max = 360)
-      #turtle_left(90)
       turtle_forward(strokes)
       turtle_right(91)
       strokes=strokes+1
@@ -51,5 +41,3 @@ turtle_quick_pollack <- function(strokes) {
 turtle_quick_pollack(100)
 
 ```
-
-
