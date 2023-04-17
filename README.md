@@ -2,7 +2,7 @@
 <p dir="auto"><a href="https://opensource.org/licenses/MIT" rel="nofollow"><img src="https://camo.githubusercontent.com/78f47a09877ba9d28da1887a93e5c3bc2efb309c1e910eb21135becd2998238a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d79656c6c6f772e737667" alt="License: MIT" data-canonical-src="https://img.shields.io/badge/License-MIT-yellow.svg" style="max-width: 100%;"></a>
 </p>
 
-This repository contains the codebase for a Turtle Graphics example, implemented using the TurtleGraphics package in R Studio. This package can be used to create sophisticated graphics on the basis of lines by describing the location and orientation or the "turtle." The graphic can be further coustomized by changing the line type and colors.
+This repository contains the codebase for a Turtle Graphics example, implemented using the TurtleGraphics package in R Studio. This package can be used to create sophisticated graphics by drawing lines by describing the location and orientation or the "turtle" in code. The graphic can be further coustomized by changing the line type and colors.
 
 <ul dir="auto">
 <li><a href="#contributors">Contributors</a></li>
