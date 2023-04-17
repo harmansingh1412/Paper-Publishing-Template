@@ -7,9 +7,9 @@ This repository contains the codebase for a Turtle Graphics example, implemented
 <ul dir="auto">
 <li><a href="#contributors">Contributors</a></li>
 <li><a href="#abstract">Abstract</a></li>
-<li><a href="#linktopublication">Link to Publication</a></li>
 <li><a href="#codeoverview">Code Overview</a></li>
 <li><a href="#development">Development</a></li>
+<li><a href="#citation">Citation</a></li>
 <li><a href="#contact">Contact</a></li>
 </ul>
 
@@ -17,8 +17,6 @@ This repository contains the codebase for a Turtle Graphics example, implemented
 <p dir="auto">See <a href="https://github.com/harmansingh1412/test/blob/main/CONTRIBUTORS.md">CONTRIBUTORS.md</a></p>
 
 ## Abstract
- 
-## Link to Publication
 
 ## Code Overview
 
@@ -48,6 +46,8 @@ devtools::install_github('Weiming-Hu/RAnEnExtra')" tabindex="0" role="button" st
 
 ## Development
 <p dir="auto">See <a href="https://github.com/harmansingh1412/test/blob/main/DEVELOPMENT.md">DEVELOPMENT.md</a></p>
+
+## Citation
 
 ## Contact
 
