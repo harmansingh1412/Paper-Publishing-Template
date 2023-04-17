@@ -25,7 +25,7 @@ This project uses R Studio. The following packages need to be installed to succe
  <pre class="notranslate">
  <code> 
 #
-#install.packages('TurtleGraphics')
+install.packages('TurtleGraphics')
 library(TurtleGraphics)
 #
 </code>
