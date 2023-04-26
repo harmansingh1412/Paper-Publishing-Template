@@ -66,6 +66,8 @@ For example, the the **turtle_init()** function makes a plot area and positions 
 
 <h3 tabindex="-1" dir="auto"><a id="user-content-install-dependency" class="anchor" aria-hidden="true" href="#install-dependency"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>How do I make the Turtle Move?</h3>
 
+Below is a simple piece of code to make to make the turtle move. The numerical values specified in the fuctions tell the turtle what distance it needs to move in which direction.
+
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>
 turtle_init()
 turtle_do({
@@ -104,6 +106,17 @@ turtle_do({
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/harmansingh1412/Paper-Publishing-Template/blob/main/Images/moving%20turtle.jpg
 "><img src="https://github.com/harmansingh1412/Paper-Publishing-Template/blob/main/Images/moving%20turtle.jpg" width="150px" style="max-width: 500%;"></a>
 </p>
+
+Addtional functions for movement:
+
+-**turtle_forward** 
+
+-**turtle_backward:** 
+
+-**turtle_up** 
+
+-**turtle_down** 
+
   
 <h3 tabindex="-1" dir="auto"><a id="user-content-install-dependency" class="anchor" aria-hidden="true" href="#install-dependency"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Turtle Art</h3>
 
