@@ -39,5 +39,4 @@ turtle_quick_pollack <- function(strokes) {
 }
 
 turtle_quick_pollack(100)
-
 ```
