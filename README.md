@@ -107,7 +107,7 @@ turtle_do({
 "><img src="https://github.com/harmansingh1412/Paper-Publishing-Template/blob/main/Images/moving%20turtle.jpg" width="150px" style="max-width: 500%;"></a>
 </p>
 
-Addtional functions for movement:
+Addtional functions that can specficy the turtle's movements:
 
 -**turtle_forward** 
 
