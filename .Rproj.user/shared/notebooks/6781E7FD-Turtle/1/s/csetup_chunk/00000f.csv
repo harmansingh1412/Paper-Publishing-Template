@@ -1,7 +1,9 @@
 "0","knitr::opts_chunk$set(echo = TRUE)"
+"0",""
 "0","# install package"
 "0","#install.packages(""TurtleGraphics"")"
-"0","# read library"
+"0",""
+"0","# load library"
 "0","library(TurtleGraphics)"
 "2","Warning: package ‘TurtleGraphics’ was built under R version 4.2.3"
 "2","Loading required package: grid

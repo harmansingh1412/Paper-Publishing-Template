@@ -20,23 +20,39 @@ library(TurtleGraphics)
 # Turtle Art
 
 ```{r}
+# First create a function that defines the type of strokes that you want the turtle to draw. Then specify the directions in which
+# you want the turtle to move.
+
 turtle_quick_pollack <- function(strokes) {
-  turtle_init(mode = "cycle")
-  turtle_lwd(20) # changes size of the strokes
-  colorsUsed <- character(strokes)
-  turtle_do({
+  # turtle_init creates a new empty plot with the Turtle centered on the board and facing to the north. 
+  #Set the mode to "cycle" so that if the turtle leaves the board it emerges on the other side of the board.
+  turtle_init(mode = "cycle") 
+  # changes the size of the strokes.
+  turtle_lwd(20) 
+  # specify the type of line.
+  colorsUsed <- character(strokes) 
+  # turtle_do evaluates an R expression with the Turtle temporarily hidden.
+  turtle_do({  
     for ( i in 1:strokes ) {
+      # each stroke will have a random color.
       randomColor <- sample(colors(), size = 2)
+      # set the random color option defined above as the display options for the Turtle's trace.
       turtle_col(randomColor)
       colorsUsed[i] <- randomColor
+      # move the turtle forward.
       turtle_forward(strokes)
+      # move the turtle to the right by 91 degrees.
       turtle_right(91)
+      # continue adding strokes.
       strokes=strokes+1
     }
   })
-  cat("Behold my masterpiece!  It was painted with:\n")
+  # print done when the painting is complete
+  cat("done")
+  # print the colors used to make the painting
   print(colorsUsed)
 }
 
+# specify the number of strokes
 turtle_quick_pollack(100)
 ```
