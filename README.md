@@ -111,7 +111,7 @@ Addtional functions that can specficy the turtle's movements:
 
 -**turtle_forward** 
 
--**turtle_backward:** 
+-**turtle_backward** 
 
 -**turtle_up** 
 
