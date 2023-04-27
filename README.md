@@ -129,7 +129,7 @@ Addtional functions that can specficy the turtle's movements:
 <p dir="auto">To view an attempt to draw a forest using turtle graphics see <a href="https://github.com/harmansingh1412/Paper-Publishing-Template/blob/main/TurtleForest.Rmd">TurtleForest.Rmd</a></p>
 
 <p align="center" dir="auto">
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/harmansingh1412/Paper-Publishing-Template/blob/main/turtle_plot.png" width="500px" style="max-width: 500%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/harmansingh1412/Paper-Publishing-Template/blob/main/turtle_plot.png"><img src="https://github.com/harmansingh1412/Paper-Publishing-Template/blob/main/turtle_plot.png" width="500px" style="max-width: 500%;"></a>
 </p>
 
 ## Development
